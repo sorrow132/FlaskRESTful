@@ -1,4 +1,4 @@
-# REST API playground
+# REST API
 
 This app build with Flask, Flask-RESTful, Flask_JWT, and Flask-SQLAlchemy.
 Deployed on Heroku.
